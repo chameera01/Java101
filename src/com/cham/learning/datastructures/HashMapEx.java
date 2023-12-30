@@ -1,4 +1,4 @@
-package com.cham.learning.examples;
+package com.cham.learning.datastructures;
 
 import java.util.HashMap;
 import java.util.Map;

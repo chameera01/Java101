@@ -1,4 +1,4 @@
-package com.cham.learning.examples;
+package com.cham.learning.datastructures;
 
 import java.util.ArrayList;
 import java.util.List;
